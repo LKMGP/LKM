@@ -1,0 +1,3 @@
+tensorflow==1.12.0
+gpflowSlim==1.0.0
+gpflow=1.0.0
